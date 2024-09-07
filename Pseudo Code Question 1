@@ -1,0 +1,11 @@
+START
+INPUT no1
+INPUT no2
+INPUT no3
+SET maxnumber to no1
+IF no2 > maxnumber THEN
+  SET maxnumber to no2
+ELSE IF no3 > maxnumber THEN
+  SET maxnumber to no3
+PRINT maxnumber
+END
