@@ -1,0 +1,9 @@
+Ask the user to enter num1.
+Ask the user to enter num2.
+Check if the num1%num2==0. 
+  If true: Display 'Num1 is a divisor to n' to the user and go to step 6.
+  If false: Display 'Num1 is not a divisor to n' to the user.
+Check if the num1%2==0.
+  if true then: Display 'Num1 is even' to the user.
+  if false then: Display 'Num1 is odd' to the user.
+End.
