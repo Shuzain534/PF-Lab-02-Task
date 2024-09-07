@@ -1,0 +1,16 @@
+Ask the user to enter num1.
+Ask the user to enter num2.
+Ask the user to enter Operator.
+Check if Operator = '+'
+  Then Display (num1+num2) to the user.
+Check if Operator = '-'
+  Then Display (num1-num2) to the user.
+Check if Operator = '*'
+  Then Display (num1*num2) to the user.
+Check if Operator = '/'
+  Then Display (num1/num2) to the user.
+Check if Operator = '%'
+  Then Display (num1%num2) to the user.
+Else 
+  Display 'Invalid Operator' to the user.
+End.
