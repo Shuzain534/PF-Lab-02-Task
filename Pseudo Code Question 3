@@ -1,0 +1,11 @@
+START
+INPUT a
+INPUT b
+INPUT operator
+IF operator='+' THEN
+  PRINT a+b
+ELSE IF operator='-' THEN
+  PRINT a-b
+ELSE 
+  PRINT 'INVALID OPERATOR'
+END
