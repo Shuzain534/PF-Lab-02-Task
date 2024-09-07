@@ -1,0 +1,39 @@
+Ask the user to enter a number between 1 to 12.
+Check if the number is equal to 1.
+  If Yes: Display the user 'January'.
+  If No: Go to Step 5.
+Check if the number is equal to 2.
+  If Yes: Display the user 'February'.
+  If No: Go to Step 8.
+Check if the number is equal to 3.
+  If Yes: Display the user 'March'.
+  If No: Go to Step 11.
+Check if the number is equal to 4.
+  If Yes: Display the user 'April'.
+  If No: Go to Step 14.
+Check if the number is equal to 5.
+  If Yes: Display the user 'May'.
+  If No: Go to Step 17.
+Check if the number is equal to 6.
+  If Yes: Display the user 'June'.
+  If No: Go to Step 20.
+Check if the number is equal to 7.
+  If Yes: Display the user 'July'.
+  If No: Go to Step 23.
+Check if the number is equal to 8.
+  If Yes: Display the user 'August'.
+  If No: Go to Step 26.
+Check if the number is equal to 9.
+  If Yes: Display the user 'September'.
+  If No: Go to Step 29.
+Check if the number is equal to 10.
+  If Yes: Display the user 'October'.
+  If No: Go to Step 32.
+Check if the number is equal to 11.
+  If Yes: Display the user 'November'.
+  If No: Go to Step 35.
+Check if the number is equal to 12.
+  If Yes: Display the user 'December'.
+  If No: Go to Step 38.
+End.
+
