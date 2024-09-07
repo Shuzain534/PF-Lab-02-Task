@@ -1,0 +1,10 @@
+START
+INPUT no1
+INPUT no2
+INPUT no3
+SET sum to 0
+SET no2 to -no2
+SET no3 to -no3
+sum= no1-(-no2)-(-no3)
+PRINT sum
+END
